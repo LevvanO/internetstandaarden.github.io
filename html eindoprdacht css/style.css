@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    height: 100vh;
+    background-color: white;
+    background-image: url(images/basketbal\ ye\ buddy.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+  
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%; 
+ }
+ header img{
+     max-width: 150px;
+ }
+ ul{
+     font-weight: bold;
+     display: flex;
+     gap: 2em;
+     margin-top: 50px;
+ }
+ ul li:hover {
+     scale: 1.05;
+     color: white;
+ }
+ a:hover{
+    color: orange;
+}
+article p{
+   display: flex;
+   justify-content: center;
+   color: white;
+}
+section img {
+   max-width: 60%;
+   object-fit: scale-down;
+}
+section img:hover{
+    transform: scale(1.05) rotate(-10deg);
+}
+h2{
+    font-size: xx-large;
+    padding-bottom: 5%;
+}
+h3{
+    font-size: xx-large;
+}
+h4{
+    font-size: xx-large;
+}
+h5{
+    font-size: xx-large;
+}
+
+footer{
+    padding-top: 40em;
+    text-align: center;
+    padding-bottom: 5em;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+    font-size: 3em;
+    text-shadow: 2px 2px 2px  orange;
+}
+.ote   {
+    max-width: 40%;
+}
+.ote:hover{
+    transform: scale(1.05) rotate(10deg);
+}
+.Contact img{
+    max-width: 50%;
+}
+.Contact h2{
+    font-size: 3em;
+}
+    

@@ -1,0 +1,21 @@
+Naam: Lev van Oers
+Studentennummer: 500930195
+Klas: Oker
+Schooljaar: 1e jaars 23/24
+
+LINK NAAR LIVE WEBSITE
+
+BRONVERMELDING
+-Alle foto's komen van het Internet, behalve mijn logo want die heb ik zelf bewerkt
+in photoshop
+-W3SCHOOLS
+https://www.w3schools.com
+-CSS tricks Flexbox
+https://css-tricks.com
+-Youtubers zoals Slaying the Dragon, Kevin Powell, Web Dev Simplified en fireship
+-Wikipedia voor de inhoud van mijn site en mijn eigen kennis.
+https://en.wikipedia.org/wiki/Overtime_Elite
+https://en.wikipedia.org/wiki/College_basketball
+https://en.wikipedia.org/wiki/NBA_G_League
+-Kingstalent, Ook voor informatie
+https://www.kingstalent.com
